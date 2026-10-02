@@ -45,9 +45,10 @@ python trabalho_normalizacao.py
 ## Arquivos principais
 
 - `trabalho_normalizacao.py`: código da análise.
-- `roteiro_normalizacao.md`: roteiro da apresentação.
 - `requirements.txt`: dependências do projeto.
 - `dados_maquinas.csv`: conjunto de dados fictício original.
 - `dados_maquinas_tratados.csv`: conjunto de dados após o tratamento.
 - `comparacao_escalas.png`: comparação antes e depois do escalonamento.
 - `temperatura_vibracao.png`: gráfico de temperatura e vibração.
+- `Normalização e Escalonamento de Dados.pdf`: slides da apresentação da equipe.
+- `Trabalhos_25092026.pdf`: diretrizes e requisitos da atividade.
